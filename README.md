@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet Readme bir adet index.html dosyası içeriyor.
 
-[](img.png)
+[Proje Resmi](https://github.com/kadirekenn/kodluyoruzilkrepo/blob/main/img.png)
 
 # Klonlama
 projeyi klonlayın. (Buraya size repomuzdan link gelecek)
